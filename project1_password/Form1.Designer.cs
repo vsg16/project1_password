@@ -58,7 +58,7 @@ namespace project1_password
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(123, 126);
+            this.textBox1.Location = new System.Drawing.Point(123, 111);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(244, 36);
@@ -161,7 +161,7 @@ namespace project1_password
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label2.Location = new System.Drawing.Point(139, 165);
+            this.label2.Location = new System.Drawing.Point(135, 85);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(209, 20);
             this.label2.TabIndex = 10;
@@ -172,7 +172,7 @@ namespace project1_password
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(139, 81);
+            this.label1.Location = new System.Drawing.Point(143, 150);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(201, 40);
             this.label1.TabIndex = 9;

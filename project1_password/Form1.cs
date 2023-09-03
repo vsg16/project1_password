@@ -159,6 +159,7 @@ namespace project1_password
                 int value_extra = rnd_extra.Next(0, 10);
                 L = L + value_extra;
                 int intLength = Convert.ToInt32(L);
+                textBox2.Text = Convert.ToString(intLength);
                 int[] arr = new int[intLength];
 
 
